@@ -1,1 +1,1 @@
-TOKEN = '0000000:АААН5455авцсмьчсмлуцкщывюав'  # Write here your TOKEN (get it from @BotFather)
+TOKEN = '1897550776:AAEedZUqU66DKQYWXUq0m60DqepSyTeYFQY'  # Write here your TOKEN (get it from @BotFather)
